@@ -1,5 +1,5 @@
 # Task Two R file
 
-x = 5
-y = 4
+x = 4
+y = 5
 x*y = 20
